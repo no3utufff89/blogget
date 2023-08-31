@@ -11,7 +11,7 @@ function App() {
   dispatch(updateToken(getToken()));
   return (
     <Routes>
-      <Route path="*" element={
+      <Route path="/*" element={
         <>
           <Header/>
           <Main/>
