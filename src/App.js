@@ -4,7 +4,7 @@ import Main from './components/Main';
 import { useDispatch } from 'react-redux';
 import { updateToken } from './store/tokenReducer';
 import { getToken } from './api/token';
-import { Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router';
 
 function App() {
   const dispatch = useDispatch();
