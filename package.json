@@ -2,7 +2,7 @@
   "name": "blogget",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://no3utufff89.github.io/blogget",
+  "homepage": "https://no3utufff89.github.io/blogget/auth",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.17.0",
