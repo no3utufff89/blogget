@@ -1,0 +1,22 @@
+.item {
+    margin-bottom: 20px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.author {
+    margin-bottom: 10px;
+}
+.date {
+    color: #285784;
+}
+
+.comment {
+    white-space: pre-line
+}
+@media (min-width: 768px) {
+    .item {
+        margin-bottom: 30px;
+    }
+}
